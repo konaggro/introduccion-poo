@@ -3,3 +3,6 @@ de una forma más clara mediante el uso de clases y objetos.
 
 Además, al trabajarlo en VS Code, el código se ve más ordenado. Se siente similar a trabajar
  con HTML, pero resulta más didáctico y práctico al momento de programar.
+
+ Link
+ https://github.com/konaggro/introduccion-poo
